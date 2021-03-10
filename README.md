@@ -1,8 +1,8 @@
 # web-practice
-# -1 == 0xFFFFFFFF in DWord == 100% DPI scaling
-# 0 = default setting of the screen (can be 125%!)
-# 1 = default settings + 1
-# 2 = default settings + 2
+	# -1 == 0xFFFFFFFF in DWord == 100% DPI scaling
+	# 0 = default setting of the screen (can be 125%!)
+	# 1 = default settings + 1
+	# 2 = default settings + 2
 $dpiValue = -1
 
 $activeMonitorsRegPath = "HKCU:\Control Panel\Desktop\PerMonitorSettings"
